@@ -21,10 +21,21 @@ img{
 	padding:3px;
 }
 ul li a:hover{
-	background-color:#D54258; 
+	background-color:#6176D3; 
 	 color:white; 
 	 border-radius: 40px;
 	 padding:4px; 
 	 padding-left:26px; 
 	 padding-right:26px;
+}
+ol{
+	padding-top: 14px;
+	padding-left: 350px;
+}
+ol li{
+	list-style: none;
+	display: inline;
+}
+ol li a{
+	color: black;
 }
