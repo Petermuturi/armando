@@ -38,4 +38,6 @@ ol li{
 }
 ol li a{
 	color: black;
+	padding-left: 5px;
+	padding-right: 5px;
 }
