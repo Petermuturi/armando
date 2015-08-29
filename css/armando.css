@@ -20,3 +20,11 @@ ul li a{
 img{
 	padding:3px;
 }
+ul li a:hover{
+	background-color:#D54258; 
+	 color:white; 
+	 border-radius: 40px;
+	 padding:4px; 
+	 padding-left:26px; 
+	 padding-right:26px;
+}
